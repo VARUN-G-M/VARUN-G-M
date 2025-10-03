@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+Varun G M | UI/UX Designer & Digital Creator<br>Passionate about building digital products from the ground up. I am a versatile professional specializing in UI/UX Design, Graphic Design, and Digital Creation.<br>My Focus<br>My core expertise is in creating solutions that solve unique business challenges, especially those faced by early-stage companies and start-ups. I translate high-level vision into tangible, successful digital products by focusing on two key areas:<br>Experience Design (UI/UX): Crafting seamless, intuitive, and user-centric interfaces.<br>Visual Branding (Graphic Design): Developing powerful visuals, digital artwork, and brand assets that ensure a strong market presence.<br>Professional Experience<br>Creative Designer at UpCred AI<br>Feb 2025 – Present<br>Designing digital marketing artworks for social media use and company branding.<br>Skill Highlights: User Interface Design, User Experience Design, Branding, Digital Art, Social Media Graphics, Visual Communication, Adobe Creative SuiteA student in Malnad College of Engineering, 1st year — Computer Science stream. I'm a creative student with a passion for web development, Photoshop, gaming, and creating YouTube content. I enjoy turning ideas into projects and learning new technologies.<br><br>Web Development (HTML/CSS/JS)<br>Photoshop<br>Gaming<br>YouTuber<br>Creative Ideas<br>Preferred tools & workflow: comfortable building with plain HTML/CSS/JS. Also familiar with site builders (Wix, Squarespace) and portfolio platforms like Behance or Google Sites.
 
-<!--
-**VARUN-G-M/VARUN-G-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-g-m) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/VARUNGM_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Karnatakazoneyt29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varun.gm03@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VARUN-G-M&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VARUN-G-M&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN-G-M&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VARUN-G-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VARUN-G-M&icon=5&color=7)](https://visitcount.itsvg.in)
