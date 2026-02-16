@@ -2,7 +2,7 @@
 
 >•💡 I'm a student at malnad college of engineering Hassan.
 
->•😊 VIEW 🪟 OF MY PORTFOLIO WEBSITE https://varungm03.netlify.app/
+>•😊 VIEW 🪟 OF MY PORTFOLIO WEBSITE https://varun-gm.netlify.app/
 
 >•📮 Reach out me at varun.gm03@gmail.com
 
